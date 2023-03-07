@@ -1,16 +1,29 @@
-### Hi there 👋
+**Hola soy Victor**, 
+**Freelancer** de vocacion y pasion.
 
-<!--
-**leviusr/leviusr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Areas de conocimientos
 
-Here are some ideas to get you started:
+- Computacion
+- ciencia
+- tecnologia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+| Comando    | Descripcion |
+| ---------- | -------------------- |
+| LS         | Lista las carpetas en el directorio actual |
+| cd         | Si se usa solo te envia al home|
+| cd ..      | Te regresa al directorio anterior. |
+| pwd        | Me da la ubicacion actual en el directorio.|
+| sudo       | Lanza el comando como super usuario. |
+
+# Alias:
+```
+- cl lanza comando clear y borra la pantalla.
+- mostused top 10 comandos mas usados.`
+```
+
+
+
+texto y mas texto
+dsffse
+
